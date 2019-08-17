@@ -4,5 +4,6 @@ int main()
 {
   printit;
   printittwice;
-  cout <</n "It's alive";
+  cout << \n "It's alive";
+  return (0);
 }
