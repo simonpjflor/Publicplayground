@@ -2,9 +2,9 @@
 #include<iostream>
 // no namespace
 
-void main ()
+int main ()
 {
 std::cout <<"sactisfactoried pull";
-std::std::cout << "\n I did it indeed" << '\n';
+std::cout << "\n I did it indeed" << '\n';
 return(0);
 }

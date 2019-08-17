@@ -2,8 +2,8 @@
 
 int main()
 {
-  printit;
-  printittwice;
+  printit();
+  printittwice();
   cout << "\n It's alive, innit?";
   return (0);
 }
