@@ -5,12 +5,12 @@ using namespace std;
 
 void printit()
 {
-  cout << "it" \n;
+  cout << "it \n";
 }
 void printittwice()
 {
-  cout << "it" \n "it";
+  cout << "it \n it";
 }
 void dontgetit() {
-  std::cout << "shame on u "<< \n;
+  std::cout << "\n shame on u "<<'\n';
 }
