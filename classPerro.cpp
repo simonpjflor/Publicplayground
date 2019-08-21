@@ -1,5 +1,8 @@
 #include "classPerro.h"
 
+//why the fuck donde you spread it in the right manner between header and cpp?
+// shame on u bro
+
 void Perro::PerroPet(int pets) {
   pet =pets; // just because 
   cout<<" \n you pet your perro " << this-> pet <<" times";
