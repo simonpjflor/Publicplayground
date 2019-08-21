@@ -1,7 +1,7 @@
 #include "classPerro.h"
 
-//why the fuck donde you spread it in the right manner between header and cpp?
-// shame on u bro this is uploaded directly on the forked one
+//why don't you spread it between header and cpp?
+//directly on the forked one, i see can u see this? has your forked one change?
 
 void Perro::PerroPet(int pets) {
   pet =pets; // just because 
@@ -20,4 +20,4 @@ int main() {
 
   return 0;
 }
-// but this is for a pull request, why? who knows, right?
+// but this is for a pull request, why? who knows, right? the other one came in the pull too
