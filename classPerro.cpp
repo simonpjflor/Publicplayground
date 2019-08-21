@@ -1,7 +1,7 @@
 #include "classPerro.h"
 
 //why the fuck donde you spread it in the right manner between header and cpp?
-// shame on u bro
+// shame on u bro this is uploaded directly on the forked one
 
 void Perro::PerroPet(int pets) {
   pet =pets; // just because 
